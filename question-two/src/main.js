@@ -1,3 +1,7 @@
+// Create a web app which would take two inputs. It would also have 4 buttons: +, -, x /. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
+
+
+
 const inputOne = document.getElementById("inp-one");
 const inputTwo = document.getElementById("inp-two");
 const btnAdd = document.getElementById("btn-add");
