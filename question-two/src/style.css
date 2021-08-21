@@ -1,0 +1,24 @@
+
+body{
+    max-width: 600px;
+    margin: 0 auto;
+    
+}
+
+input{
+    margin:2rem;
+    padding:0.3rem;
+    display: block;
+}
+
+button{
+    padding: 0.3rem;
+    color:white;
+    background-color: black;
+    width: 30px;
+}
+
+div{
+    border: 2px solid black;
+    padding:3rem;
+}
