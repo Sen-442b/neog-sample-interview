@@ -1,0 +1,14 @@
+:root {
+    --primary-color:#34D399;
+    --secondary-color:#A78BFA;
+}
+
+
+#primary-color, #btn-primary{
+    color: var(--primary-color);
+    
+}
+#secondary-color, #btn-secondary{
+    color:var(--secondary-color);
+    
+}
